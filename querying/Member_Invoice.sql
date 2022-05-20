@@ -1,4 +1,4 @@
--- Stored procedure that generates a complete member invoice 
+-- Stored procedure that generates a complete member device usage invoice.
 
 alter procedure MemberInvoices(@ID int, @Days int)
 as 
