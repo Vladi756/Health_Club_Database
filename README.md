@@ -31,8 +31,3 @@ The SQL server was connected to Tableau and a comprehensive dasbhoard was create
 
 The dashboard tells a story of the business and helps managements make data driven decisions. 
 
-### Technologies Used:
-
-Markup: 1.Visual Paradigm
-        2.SQL Server
-        3.Tableau
