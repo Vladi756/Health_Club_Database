@@ -1,6 +1,6 @@
 # LSBU_Health_Club_Database
 
-A database modeled, implemented, and queried as part of a coursework for my Big Data & Database Systems modules at university. 
+A database modeled, implemented, and queried as part of a coursework for my Big Data & Database Systems modules at university. Mock data was inserted which was thoroughly analyzed and visualized.
 
 ## Modelling 
 
@@ -29,5 +29,5 @@ The SQL server was connected to Tableau and a comprehensive dasbhoard was create
 
 ![image](https://user-images.githubusercontent.com/74903538/169575400-1845fc0f-e8c9-4a0a-ac9c-6b125dfb7539.png)
 
-The dashboard tells a story of the business and helps managements make data driven decisions. 
+The dashboard tells a story of the business and helps management make data driven decisions. 
 
