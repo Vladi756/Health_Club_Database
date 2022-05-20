@@ -33,6 +33,6 @@ The dashboard tells a story of the business and helps managements make data driv
 
 ### Technologies Used:
 
-Visual Paradigm
-SQL Server
-Tableau
+1.Visual Paradigm
+2.SQL Server
+3.Tableau
