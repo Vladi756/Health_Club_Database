@@ -19,7 +19,6 @@ create table ClassSchedule(
 	constraint ClassSchedulePK primary key(ScheduleID),
 );
 
-select * from Member;
 create table Class(
     ClassID       int         not null      identity(1,1),
 	ScheduleID    int         not null,
@@ -30,8 +29,6 @@ create table Class(
 	constraint ClassPK primary key(ClassID),
 	constraint ClassFK foreign key(ScheduleID) references ClassSchedule(ScheduleID)
 );
-
-select * from Class
 
 
 create table Member(
