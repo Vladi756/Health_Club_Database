@@ -18,9 +18,9 @@ The tables were created using SQL in Microsofts SQL Server. The detailed SQL cre
 
 ## Querying 
 
-The database was queried using queries, triggers and stored procedures. Here is a sample of a query which returns the members who have made the most and least personal trainer bookings: 
+The database was queried using queries, triggers and stored procedures. Here is a sample of a query which returns the personal trainers available for bookings this week:
 
-![image](https://user-images.githubusercontent.com/74903538/169575152-c55f0583-6c69-42dc-a430-635e3c6bee20.png)
+![image](https://user-images.githubusercontent.com/74903538/169578970-5ecb8b22-dd6f-4779-a539-9b831b37a182.png)
 
 
 ## Visualization 
