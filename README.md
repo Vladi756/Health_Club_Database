@@ -25,7 +25,7 @@ The database was queried using queries, triggers and stored procedures. Here is 
 
 ## Visualization 
 
-The SQL server was connected to Tableau and a comprehensive dasbhoard was created based off the data inserted into the datbase: 
+The SQL server was connected to Tableau and a comprehensive dasbhoard was created based off the data inserted into the database: 
 
 ![image](https://user-images.githubusercontent.com/74903538/169575400-1845fc0f-e8c9-4a0a-ac9c-6b125dfb7539.png)
 
